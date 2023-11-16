@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dipak Rasal.
 - 👀 I’m interested in learn a new computer languages.
 - 🌱 I’m currently learning in Anguler with mean stack development.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on C C++ JAVA.        
 - 📫 You can reach me dipakrasal2009@gmail.com 
 
 <!---

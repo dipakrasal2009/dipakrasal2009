@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dipak Rasal.
 - 👀 I’m interested in learn a new computer languages.
 - 🌱 I’m currently learning in Anguler with mean stack web development.
-- 💞️ Ask mi About _____________        
+- 💞️ Ask mi About C,CPP,JAVA,Data Structure,PHP,JavaScript,Typescript,Angular,Node.js,Express.js,MongoDB
 - 📫 You can reach me dipakrasal2009@gmail.com 
 
 <!---

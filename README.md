@@ -1,6 +1,6 @@
 ## - 👋 Hi, I’m Dipak Rasal.
 - 👀 I’m interested in learn a new Technology.
-- 🌱 I’m currently learning in cloud computing with MERN stack web development at the LinuxWorld Informatics pvt. ltd.  under Mr.Vimal Daga sir mentorship.
+- 🌱 I’m currently learning in cloud computing with Full-stack web development at the LinuxWorld Informatics pvt. ltd.  under Mr.Vimal Daga sir mentorship.
 - 💞️ Ask mi About C,CPP,JAVA,Data Structure,PHP,JavaScript,Typescript,python,Golang,Angular,Node.js,Express.js,MongoDB,HTML,CSS
 - DevOps Tool : Docker
 - 📫 You can reach me dipakrasal2009@gmail.com 

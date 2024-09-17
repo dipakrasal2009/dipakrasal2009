@@ -8,9 +8,9 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/dipakrasal2009/](https://www.linkedin.com/in/dipakrasal2009/)
 
-- 💬 Ask me about **C, CPP, JAVA, MEAN Stack, Data Structure**
+- 💬 Ask me about **C, CPP, JAVA,Python, MEAN Stack, Data Structure**
 
-- 📫 How to reach me **dipakrasal2009@gmail.com**
+- 📫 You can reach me **dipakrasal2009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

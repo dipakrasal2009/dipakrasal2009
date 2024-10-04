@@ -179,3 +179,17 @@ int main() {
     };
 
     //
+
+
+
+
+
+
+Partially implement the Menu driven Banker's algorithm for accepting Allocation, Max from user. 
+
+
+
+a) Accept Available 
+b) Display Allocation, Max 
+c) Find Need and display It, 
+d) Display Available Consider the system with 3 resources types A,B, and C with 7,2,6 instances respectively.

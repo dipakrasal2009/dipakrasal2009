@@ -1,4 +1,3 @@
-https://github.com/dipakrasal2009/College/blob/main/java/Java%20Imp.docx
 <h1 align="center">Hi 👋, I'm Dipak Rasal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 

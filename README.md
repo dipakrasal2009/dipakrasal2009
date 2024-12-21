@@ -29,8 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipakrasal2009&" alt="dipakrasal2009" /></p>
 
 
-https://chatgpt.com/share/6738e9f4-2050-800e-8f1c-cc3070ae5330
-
 
 
 

@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakrasal2009&label=Profile%20views&color=0e75b6&style=flat" alt="dipakrasal2009" /> </p>
 
-- 🌱 I’m currently learning **DevOps(CI/CD pipeline), AWS cloud, Docker , Python ,Linux ,Shell Scripting,Flask API, MERN stack**
+- 🌱 I’m currently learning **DevOps(CI/CD pipeline), AWS cloud, Docker , kubernetes ,Jenkins, Terraform,**
 - 👨‍💻 All of my projects are available at [https://github.com/dipakrasal2009](https://github.com/dipakrasal2009)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/dipakrasal2009/](https://www.linkedin.com/in/dipakrasal2009/)
 
-- 💬 Ask me about **C, CPP, JAVA, Python, MEAN Stack, Data Structure**
+- 💬 Ask me about **C, CPP, JAVA, Python, MEAN Stack, Data Structure, Linux, Flask, Shell Scripting**
 
 - 📫 You can reach me **dipakrasal2009@gmail.com**
 

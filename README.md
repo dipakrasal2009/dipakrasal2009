@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipak Rasal</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakrasal2009&label=Profile%20views&color=0e75b6&style=flat" alt="dipakrasal2009" /> </p>
 
-- 🌱 I’m currently learning **DevOps(CI/CD pipeline), Docker , kubernetes ,Jenkins, Terraform, Ansible, ArgoCD**
+- 🌱 I’m currently learning **DevOps(CI/CD pipeline), Docker , kubernetes ,Jenkins, Terraform, Ansible, ArgoCD, GitHub Action **
 - 👨‍💻 All of my projects are available at [https://github.com/dipakrasal2009](https://github.com/dipakrasal2009)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/dipakrasal2009/](https://www.linkedin.com/in/dipakrasal2009/)

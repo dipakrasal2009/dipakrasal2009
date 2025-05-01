@@ -17,4 +17,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https://medium.com/@dipakrasal2009'
+          feed_list: 'https://medium.com/feed/@dipakrasal2009'

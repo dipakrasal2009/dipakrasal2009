@@ -15,7 +15,10 @@
 - 📫 You can reach me **dipakrasal2009@gmail.com**
 
 ### Blog Post
+
+<!-- BLOG-POST-LIST:START -->
 - [⎈ Mastering Git: Top 20 Git Commands Every Developer Should Know ️](https://medium.com/@dipakrasal2009/mastering-git-top-20-git-commands-every-developer-should-know-504b6bb9c646)
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

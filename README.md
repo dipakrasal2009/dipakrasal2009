@@ -14,6 +14,9 @@
 
 - 📫 You can reach me **dipakrasal2009@gmail.com**
 
+### Blog Post
+- [⎈ Mastering Git: Top 20 Git Commands Every Developer Should Know ️](https://medium.com/@dipakrasal2009/mastering-git-top-20-git-commands-every-developer-should-know-504b6bb9c646)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dipakrasal2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipakrasal2009" height="30" width="40" /></a>

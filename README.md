@@ -17,6 +17,7 @@
 ### Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [⎈ Automate AWS Cloud with Ansible: EC2 & S3 in Action ️](https://medium.com/@dipakrasal2009/automate-aws-cloud-with-ansible-ec2-s3-in-action-d410ef52793c)
 - [⎈ Mastering GitOps with Argo CD using YAML file and Deploy Application ️](https://medium.com/@dipakrasal2009/mastering-gitops-with-argo-cd-using-yaml-file-and-deploy-application-1b77978cefc1)
 - [⎈ Mastering Git: Top 20 Git Commands Every Developer Should Know ️](https://medium.com/@dipakrasal2009/mastering-git-top-20-git-commands-every-developer-should-know-504b6bb9c646)
 - [⎈ Mastering Kubernetes YAML Files: A Beginner-Friendly Guide ️](https://medium.com/@dipakrasal2009/mastering-kubernetes-yaml-files-a-beginner-friendly-guide-ecabaa723933)

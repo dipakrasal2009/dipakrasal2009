@@ -17,6 +17,10 @@
 ### Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [⎈ Deploying a Dockerized Web App to Kubernetes Using Ansible: A Complete Guide ️](https://medium.com/@dipakrasal2009/deploying-a-dockerized-web-app-to-kubernetes-using-ansible-a-complete-guide-fcd1bbbfe48b)
+- [⎈ Building a Jenkins Cluster from Scratch Using Docker & Kubernetes ️](https://medium.com/@dipakrasal2009/project-2-building-a-jenkins-cluster-from-scratch-using-docker-kubernetes-9c3417a442e1)
+- [⎈ Ansible Cluster in Docker Container & Kubernetes Pod (No Prebuilt Images) ️](https://medium.com/@dipakrasal2009/ansible-cluster-in-docker-container-kubernetes-pod-no-prebuilt-images-19c8cf3d2e9d)
+
 - [⎈ Managing Apache HTTPD with Ansible: From Controller to Target Node ️](https://medium.com/@dipakrasal2009/managing-apache-httpd-with-ansible-from-controller-to-target-node-95d5fc64df0b)
 - [⎈ Automate AWS Cloud with Ansible: EC2 & S3 in Action ️](https://medium.com/@dipakrasal2009/automate-aws-cloud-with-ansible-ec2-s3-in-action-d410ef52793c)
 - [⎈ Mastering GitOps with Argo CD using YAML file and Deploy Application ️](https://medium.com/@dipakrasal2009/mastering-gitops-with-argo-cd-using-yaml-file-and-deploy-application-1b77978cefc1)
